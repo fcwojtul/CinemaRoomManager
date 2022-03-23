@@ -1,0 +1,6 @@
+content:
+- Theory
+- Avoid NPE with strings
+- Find NPE
+- When NPE cannot occur
+- Return empty string when argument is null

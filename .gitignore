@@ -1,0 +1,33 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/production/classes/
+/Cinema Room Manager/task/out/test/classes/
+/Topics/Calling a method/Area of parallelogram/out/
+/Topics/Calling a method/Area of parallelogram/out/production/classes/
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
+/Topics/Errors in programs/Print the age/out/
+/Topics/Errors in programs/Print the age/out/production/classes/
+/Topics/Errors in programs/What's wrong/out/
+/Topics/Errors in programs/What's wrong/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Iterating over arrays/Does an array contain N/out/
+/Topics/Iterating over arrays/Does an array contain N/out/production/classes/
+/Topics/Iterating over arrays/Individual taxes/out/
+/Topics/Iterating over arrays/Individual taxes/out/production/classes/
+/Topics/Iterating over arrays/The longest ascending sequence/out/
+/Topics/Iterating over arrays/The longest ascending sequence/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Multidimensional array/Reverse elements/out/
+/Topics/Multidimensional array/Reverse elements/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/Switch statement/Direction/out/
+/Topics/Switch statement/Direction/out/production/classes/
+/Topics/The main method/Fixing errors in main/out/
+/Topics/The main method/Fixing errors in main/out/production/classes/
+/Topics/The main method/Fixing the main method/out/
+/Topics/The main method/Fixing the main method/out/production/classes/
